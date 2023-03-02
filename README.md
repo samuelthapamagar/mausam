@@ -1,15 +1,11 @@
-# clima
+# mausam
 
-A new Flutter project.
+This app gives the information of the city you are located in. You can also search a custom location and see the weather condition.
+'Mausam' means weather in Nepali.
 
-## Getting Started
+<img src="images/Screenshots/demo.gif" width="350" height="777" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
