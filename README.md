@@ -3,7 +3,7 @@
 This app gives the information of the city you are located in. You can also search a custom location and see the weather condition.
 'Mausam' means weather in Nepali.
 
-<img src="images/Screenshots/demo.gif" width="350" height="777" />
+<img src="images/demo.gif" width="350" height="777" />
 
 
 
